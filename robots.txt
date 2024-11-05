@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxodioga.github.io/QDk/sitemap_index.txt
+Sitemap: https://uxodioga.github.io/ScE/sitemap_index.txt
+Sitemap: https://uxodioga.github.io/TQJ/sitemap_index.txt
+Sitemap: https://uxodioga.github.io/lZo/sitemap_index.txt
